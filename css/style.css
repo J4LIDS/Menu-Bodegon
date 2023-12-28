@@ -224,7 +224,7 @@ body {
     /* propiedades de la imagen en la tarjeta */
     height: 16vmin;
     width: 16vmin;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 8px;
     box-shadow: 3px 2px 4px rgba(0, 0, 0, 0.5);
 }
